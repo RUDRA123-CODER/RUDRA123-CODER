@@ -1,9 +1,4 @@
-<!-- Gradient Header -->
-<h1 align="center">
-  <span style="background: linear-gradient(90deg, #00C9FF, #92FE9D); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
-    Hi 👋, I'm Rudra Dogra
-  </span>
-</h1>
+<!-- Gradient Header --
 
 <!-- Typing Animation -->
 <p align="center">
