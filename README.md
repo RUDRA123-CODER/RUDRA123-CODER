@@ -1,35 +1,58 @@
-<img width="2125" height="575" alt="github-header-banner" src="https://github.com/user-attachments/assets/7005447f-5104-435e-ac80-2d620594c3bd" />
+<!-- Gradient Header -->
+<h1 align="center">
+  <span style="background: linear-gradient(90deg, #00C9FF, #92FE9D); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
+    Hi 👋, I'm Rudra Dogra
+  </span>
+</h1>
 
-# Hi 👋, I'm Rudra Dogra
-
-### A passionate learner
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=RUDRA123-CODER&label=Profile views&color=0e75b6&style=flat" alt="RUDRA123-CODER" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=RUDRA123-CODER" alt="RUDRA123-CODER" /></a> </p>
-
-- 🔭 I'm currently working on **Frontend skills & ML models**
-
-- 🌱 I'm currently learning **React & GSAP **
-
-- 🤝 I'm looking for help with **Backend**
-
-- 📫 How to reach me **rudradogra321@gmail.com**
-
-- ⚡ Fun fact **I think i am ambivert**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/RUDRA123-CODER" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="RUDRA123-CODER" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/rudra-dogra-720673326" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rudra-dogra-720673326" height="30" width="40" /></a>
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00C9FF&center=true&vCenter=true&width=600&lines=Frontend+Developer;ML+Enthusiast;Learning+React+%26+GSAP;Future+Full+Stack+Dev" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/figma" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/firebase" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=firebase" alt="firebase" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/flutter" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=flutter" alt="flutter" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/illustrator" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=illustrator" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/jupyter" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/photoshop" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=photoshop" alt="photoshop" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/reactnative" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="reactnative" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/seaborn" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tailwind" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tensorflow" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tensorflow" alt="tensorflow" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/xd" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=xd" alt="xd" width="40" height="40"/> </a></p>
+<!-- Banner -->
+<img width="100%" src="https://github.com/user-attachments/assets/7005447f-5104-435e-ac80-2d620594c3bd" />
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=RUDRA123-CODER&show_icons=true&locale=en&layout=compact" alt="RUDRA123-CODER" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=RUDRA123-CODER&show_icons=true&locale=en" alt="RUDRA123-CODER" /></p>
+### 🚀 About Me
+- 🔭 Working on **Frontend & ML**
+- 🌱 Learning **React & GSAP**
+- 🤝 Need help with **Backend**
+- 📫 **rudradogra321@gmail.com**
+- ⚡ Ambivert energy ⚡
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RUDRA123-CODER&" alt="RUDRA123-CODER" /></p>
+---
 
+### 🌐 Connect with Me
+<p align="center">
+  <a href="https://linkedin.com/in/rudra-dogra-720673326">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+  </a>
+</p>
+
+---
+
+### 🛠️ Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=css,figma,firebase,flutter,git,html,java,js,mongodb,mysql,python,react,tailwind,tensorflow" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RUDRA123-CODER&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RUDRA123-CODER&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RUDRA123-CODER&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+### 🐍 Contribution Snake (Animation)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+</p>
